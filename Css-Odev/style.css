@@ -1,0 +1,23 @@
+.localtion{
+    height: 300px;
+}
+.text{
+    color: skyblue;
+}
+.center{
+    text-align: center;
+}
+.list-none{
+    list-style-type: none; 
+}
+
+.list{
+    list-style-position: inside;
+}
+
+
+.li{
+    display: inline;
+    margin-right: 18px;
+}
+
