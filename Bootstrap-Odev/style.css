@@ -1,0 +1,41 @@
+.text-white{
+    color: white;
+}
+.text-brown{
+    color: brown;
+}
+.text-center{
+    text-align: center;
+    margin-top: 4%;
+}
+
+.bg-color{
+    background-color:#E9ECEF ;
+}
+.text-font{
+    font-size: 15px;
+    text-align: center;
+}
+.font{
+    font-size: 15px;
+    font-family: NewTimesRoman, Helvetica, sans-serif;
+}
+.text-align{
+    text-align: center;
+    list-style-position: inside;
+}
+.text-size{
+    font-size: 65px;
+    font-family: NewTimesRoman, Helvetica, sans-serif;
+}
+.text-margin{
+    text-align: center;
+    margin-top: 9px;
+}
+.b-none{
+    border: none;
+}
+.align{
+    text-align: center;
+    margin-top: 9px;
+}
