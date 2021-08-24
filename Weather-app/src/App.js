@@ -4,7 +4,7 @@ import CssBaseline from "@material-ui/core/CssBaseline";
 import Weather from "./components/Weather";
 
 export default function App() {
-  const [city, setCity] = useState("Istanbul");
+  const [city, setCity] = useState("Konya");
   const [error] = useState(null);
   const [currentWeather, setCurrentWeather] = useState({});
   const [forecast, setForecast] = useState([]);
@@ -40,7 +40,7 @@ export default function App() {
       ].join(","),
       fontSize: 14,
       h5: {
-        fontWeight: 600
+        fontWeight: 500
       }
     }
   });
